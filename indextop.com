@@ -38,6 +38,9 @@
     </li><li>食中毒の事例
     </li><li>細菌やウイルスが発生しやすい環境
     </li></ul></div>
-    <div id="footer">
+<div id="section">
+<h1>はじめに</h1>
+</div>
+<div id="footer">
 By えーてぇーぺー
 </div>
