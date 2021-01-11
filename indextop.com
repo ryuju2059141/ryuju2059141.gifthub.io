@@ -34,9 +34,12 @@
 </div>
 <div id="nav">
     <ul type="disc">
-    <li>食中毒の種類
+    <li>トップページ
+    </li><li>食中毒の種類（国内）
+    </li><li>食中毒の種類（海外）
     </li><li>食中毒の事例
     </li><li>細菌やウイルスが発生しやすい環境
+    </li><li>食中毒の予防・対策
     </li></ul></div>
 <div id="section">
 <h1>はじめに</h1>
